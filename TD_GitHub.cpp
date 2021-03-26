@@ -1,5 +1,5 @@
 #include "TD_GitHub.h"
-//Fonctions réalisées par l'étudiant 1 :
+//Fonctions réalisées par l'étudiant 1 (julie) :
 
 
 bool estMajeur(int age)
