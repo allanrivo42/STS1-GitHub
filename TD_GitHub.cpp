@@ -1,7 +1,5 @@
 //Fonctions réalisées par l'étudiant 1 :
-#include <stdio.h>
-#include <iostream>
-using namespace std;
+
 
 bool estMajeur(int age)
 {
@@ -24,7 +22,7 @@ else
 	
 }
 
-
+ 
 
 int exposant(int nbre, int exp)
 {
